@@ -1,0 +1,11 @@
+* {
+
+    box-sizing: border-box;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    margin-bottom: 15px;
+}
